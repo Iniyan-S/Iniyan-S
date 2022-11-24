@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **ediscipulus@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/iniyan-s/](https://www.linkedin.com/in/iniyan-s/)
+- 📄 Know about my experiences [https://www.iniyan.me](https://www.iniyan.me)
 
 ### Connect with me:
 <p align="left">
