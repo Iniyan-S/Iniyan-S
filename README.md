@@ -24,6 +24,8 @@
 
 - 📄 Know about my experiences [https://www.iniyan.me](https://www.iniyan.me)
 
+- 📝 I regularly write articles on [https://blog.iniyan-s.com](https://blog.iniyan-s.com)
+
 ### Connect with me:
 <p align="left">
 <a href="https://twitter.com/iniyansargunam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iniyansargunam" height="30" width="40" /></a>
