@@ -42,7 +42,9 @@
 </p>
 <br>
 
-![Iniyan's Activity Graph](https://activity-graph.herokuapp.com/graph?username=iniyan-s&custom_title=Iniyan's%20Contribution%20Graph&theme=high-contrast&bg_color=151515&hide_border=true&line=fa8b00&point=c58545)
+[comment]: <> (![Iniyan's Activity Graph](https://activity-graph.herokuapp.com/graph?username=iniyan-s&custom_title=Iniyan's%20Contribution%20Graph&theme=high-contrast&bg_color=151515&hide_border=true&line=fa8b00&point=c58545))
+
+![Iniyan's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=iniyan-s&custom_title=Iniyan's%20Contribution%20Graph&theme=high-contrast&bg_color=151515&hide_border=true&line=fa8b00&point=c58545)
 
 <p align="center">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iniyan-s&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
